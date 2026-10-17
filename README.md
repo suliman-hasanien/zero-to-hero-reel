@@ -6,7 +6,7 @@
 
 A 44-second Instagram reel for a programming & marketing course, edited from **7 iPhone clips** of a talking head.
 
-**Watch:** [portfolio](https://suliman-hasanien.github.io/#work)
+**Watch:** [portfolio](https://suliman-hasanien.github.io/portfolio/#work)
 
 ## Pipeline
 1. **Transcribe** — `project/transcribe.py` runs faster-whisper (large-v3) on the Arabic speech for word timings.
