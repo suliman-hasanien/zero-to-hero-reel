@@ -1,0 +1,10 @@
+node_modules/
+*.mp4
+*.webm
+*.mov
+*.mkv
+*.wav
+out/
+remotion/public/clips/
+models/
+__pycache__/
